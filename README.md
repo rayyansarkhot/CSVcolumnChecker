@@ -6,5 +6,5 @@ This project was designed for a local politician in my county that wanted to sif
 
 ## Technologies
 
-This project was designed with Python3 and the csv library provided with the language. Alongside this, a dataset of Arabic names provided by (zakahmad)[https://github.com/zakahmad/ArabicNameGenderFinder] was used. The idea was that Muslims generally are named with Arabic words, and thus by comparing voter names with Arabic names, possibile Muslim voters could be found.
+This project was designed with Python3 and the csv library provided with the language. Alongside this, a dataset of Arabic names provided by [zakahmad](https://github.com/zakahmad/ArabicNameGenderFinder) was used. The idea was that Muslims generally are named with Arabic words, and thus by comparing voter names with Arabic names, possibile Muslim voters could be found.
 
